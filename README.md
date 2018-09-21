@@ -1,5 +1,5 @@
 # Music-Recommender-System
-This project act as purpose of the Final Project in pusuing of B.Tech Degree. This project is meant to present several ideas in Music Recommendation System and also to promote a good interface to do so.
+This project act as purpose of the Major Project(8th Semester) in pusuing of B.Tech Degree. This project is meant to present several ideas in Music Recommendation System and also to promote a good interface in doing so.
 
 Some of the techniques implemented in this projects are:
 1. Item - Item Collaborative Filtering using Coocurence Matrix.
